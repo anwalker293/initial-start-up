@@ -1,2 +1,2 @@
 # initial-start-up
-Initial start up script, mainly oriented for `the-cardea-docker`
+Minor initial start up script, mainly oriented for `the-cardea-docker`
